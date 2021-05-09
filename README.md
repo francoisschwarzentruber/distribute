@@ -10,7 +10,7 @@ It avoids to do by hand, or to use a cryptic graphical user interface.
 ## Usage
 
 - Create a folder
-- Add `distrbute.py` in it
+- Add `distribute.py` in it
 - Add the list of emails in emails.txt in it
 - Add the documents whose names somehow close to the emails
 - Run `python3 distribute.py`
